@@ -19,12 +19,19 @@ O sistema implementa um **pipeline automatizado de ponta a ponta**, transformand
 # 🚀 Funcionalidades
 
 ✔️ Leitura robusta de QR Code (com múltiplas estratégias de processamento de imagem)
+
 ✔️ Extração automática de dados diretamente da NFC-e
+
 ✔️ Estruturação completa dos itens (produto, quantidade, valores, etc.)
+
 ✔️ Persistência em banco relacional (PostgreSQL)
+
 ✔️ Geração de datasets otimizados (Parquet)
+
 ✔️ Controle de arquivos já processados (evita duplicidade)
+
 ✔️ Sistema de logs para rastreabilidade
+
 ✔️ 📊 Dashboard interativo com Power BI
 
 ---
