@@ -1,0 +1,8 @@
+2026-03-21 09:26:51.367146 - Logger inicializado corretamente
+2026-03-21 09:26:51.409762 - Conectado ao PostgreSQL
+2026-03-21 09:26:51.409813 - Iniciando processamento...
+2026-03-21 09:26:54.364172 - Processando: compras_2026_02_24.jpg
+2026-03-21 09:27:03.934898 - Finalizado: compras_2026_02_24.jpg
+2026-03-21 09:27:04.333171 - Processando: compras_2026_03_10.jpg
+2026-03-21 09:27:14.787790 - Finalizado: compras_2026_03_10.jpg
+2026-03-21 09:27:14.787962 - Processamento finalizado!
